@@ -1,0 +1,1 @@
+// src/app/models/user.model.ts\nexport interface User { id: string; username: string; token: string; }
