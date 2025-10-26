@@ -1,0 +1,1 @@
+// task-list.component.ts\nimport { Component } from '@angular/core';\n@Component({ selector: 'app-task-list', templateUrl: './task-list.component.html' })\nexport class TaskListComponent { /* TODO: fetch and display tasks */ }
