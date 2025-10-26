@@ -1,0 +1,1 @@
+// src/app/services/task.service.ts\nimport { Injectable } from '@angular/core';\n@Injectable({providedIn:'root'})\nexport class TaskService { /* TODO: CRUD and sort by priority */ }
