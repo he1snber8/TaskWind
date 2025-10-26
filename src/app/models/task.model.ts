@@ -1,0 +1,1 @@
+// src/app/models/task.model.ts\nexport interface Task { id: string; projectId: string; title: string; priority: number; }
