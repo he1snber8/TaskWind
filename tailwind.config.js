@@ -1,0 +1,1 @@
+// tailwind.config.js snippet\nmodule.exports = { content: ['./src/**/*.{html,ts}'], theme: { extend: {} }, plugins: [] }
