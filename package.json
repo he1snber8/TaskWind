@@ -1,0 +1,1 @@
+// package.json snippet\n{\n  "name": "task-manager",\n  "dependencies": {"@angular/core": "~12.0.0"},\n  "devDependencies": {"tailwindcss": "^2.0.0"}\n}
