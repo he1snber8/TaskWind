@@ -1,0 +1,1 @@
+// src/app/app.module.ts\nimport { NgModule } from '@angular/core';\nimport { AuthService } from './services/auth.service';\n@NgModule({ providers: [AuthService] })\nexport class AppModule {}
