@@ -1,0 +1,1 @@
+// src/app/guards/auth.guard.ts\nimport { CanActivate } from '@angular/router';\nexport class AuthGuard implements CanActivate { canActivate() { /* TODO: check token existence */ return true; } }
