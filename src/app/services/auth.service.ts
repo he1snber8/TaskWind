@@ -1,0 +1,1 @@
+// src/app/services/auth.service.ts\nimport { Injectable } from '@angular/core';\n@Injectable({providedIn:'root'})\nexport class AuthService { /* TODO: implement login, token storage */ }
