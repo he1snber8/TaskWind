@@ -1,0 +1,1 @@
+// src/app/interceptors/auth.interceptor.ts\nimport { HttpInterceptor } from '@angular/common/http';\nexport class AuthInterceptor implements HttpInterceptor { intercept(req, next) { /* inject JWT */ return next.handle(req); } }
